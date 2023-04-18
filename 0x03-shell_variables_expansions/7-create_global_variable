@@ -1,2 +1,2 @@
-in/bash
-export BEST="School"
+#!/bin/bash
+echo $((TRUEKNOWLEDGE+=128))

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BREATH**LOVE))
+perl -lne 'print if $. %2==1'
